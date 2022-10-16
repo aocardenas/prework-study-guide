@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-The study guide was intended for bootcamp students to look up notes on how to work on topics such as HTML, CSS, Git and Java. Opening the dev tools on ChromeOS using ctrl+shift+I you can see the Java running under console.
+The study guide was intended for bootcamp students to look up notes on how to work on topics such as HTML, CSS, Git and Java. Opening the dev tools on ChromeOS using ctrl+shift+I you can see the Java running in the console tab.
 
 ## Credits
 
